@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on kunal gedam</title>
+    <link>https://codewithkunaal.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on kunal gedam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://codewithkunaal.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Fake News identifier - using BI-LSTM</title>
+      <link>https://codewithkunaal.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://codewithkunaal.github.io/portfolio/post/project-1/</guid>
+      <description>subject of news that are mostly present in dataset   Project : problem statement for the project was to classify a news into category of whether it&amp;rsquo;s fake or true and then further identify if we can track or Categories such news sources into legit or biased and to do that we need a model that will learn patterns from data and the data was taken from kaggle we had 2 data sets IEEE and ISOT which combined had over 70k records</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Clash Royale- battle outcome predictor</title>
+      <link>https://codewithkunaal.github.io/portfolio/post/project-2/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://codewithkunaal.github.io/portfolio/post/project-2/</guid>
+      <description>what is clash royale?
+Clash Royale is a free-to-play real-time strategy video game developed and published by Supercell. The game combines elements from collectible card games, tower defense, and multiplayer online battle arena. The game was released globally on March 2, 2016.
+Clash Royale is a tower rush video game which pits players in games featuring two or four players (1v1 or 2v2) in which the objective is to destroy the most opposing towers, with the destruction of the &amp;ldquo;King&amp;rsquo;s Tower&amp;rdquo; being an instantaneous win.</description>
+    </item>
+    
+    <item>
+      <title>jarvis</title>
+      <link>https://codewithkunaal.github.io/portfolio/post/project-3/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://codewithkunaal.github.io/portfolio/post/project-3/</guid>
+      <description>mini project titled Jarvis: A Virtual Assistant submitted by Mohit Singh, Abhishek Khadgi, Kunal Gedam and Sohail Sheikh in the partial fulfillment of the Sixth Semester of Bachelor of Engineering in Computer Science and Engineering during academic year 2019-20,has been carried out under my supervision at the Department of Computer Science and Engineering of G.H. Raisoni Institute of Engineering and Technology, Nagpur
+•	Given project as such may not very significant considering rate of change in technology.</description>
+    </item>
+    
+    <item>
+      <title>Notes app made with Flask</title>
+      <link>https://codewithkunaal.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://codewithkunaal.github.io/portfolio/post/project-4/</guid>
+      <description>Used flask and some jinja templates and copied code from bootstrap which i modified for my own use et voila a notes app
+Github</description>
+    </item>
+    
+    <item>
+      <title>Handling dictionary with SQL</title>
+      <link>https://codewithkunaal.github.io/portfolio/post/project-5/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://codewithkunaal.github.io/portfolio/post/project-5/</guid>
+      <description>I got this idea from u/stiffupperleg. Of course everyone try to get onto hype train and make something to showcase their skills for that particular domain and how iam i different?.. I tried looking for &amp;ldquo;project ideas&amp;rdquo; online and this guy came in clutch
+Basically in this project i&amp;rsquo;ve imported a dictionary in csv format converted to sql file then i ran some basic queries without cleaning it &amp;ldquo;genius&amp;rdquo; so the first file will have all the basic queries that i can think of in the 2nd file i will run complex queries</description>
+    </item>
+    
+  </channel>
+</rss>
